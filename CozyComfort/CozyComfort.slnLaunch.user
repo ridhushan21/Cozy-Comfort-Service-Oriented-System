@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "..\\CozyComfort.ManufacturerService\\CozyComfort.ManufacturerService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\CozyComfort.DistributorService\\CozyComfort.DistributorService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\CozyComfort.SellerService\\CozyComfort.SellerService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\CozyComfort.Client\\CozyComfort.Client.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

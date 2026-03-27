@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../CozyComfort.Client/CozyComfort.Client.csproj" />
+  <Project Path="../CozyComfort.DistributorService/CozyComfort.DistributorService.csproj" />
+  <Project Path="../CozyComfort.ManufacturerService/CozyComfort.ManufacturerService.csproj" />
+  <Project Path="../CozyComfort.SellerService/CozyComfort.SellerService.csproj" />
+</Solution>
